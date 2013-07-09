@@ -1,4 +1,5 @@
 #A new line.
+#Another new line.
 require 'ruby-processing'
 class ProcessArtist < Processing::App
 
